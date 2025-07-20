@@ -1,0 +1,10 @@
+kornia==0.7.4
+mediapipe==0.10.14
+numpy==1.23.5
+opencv_contrib_python==4.10.0.84
+opencv_python==4.9.0.80
+pandas==2.2.3
+ptflops==0.7.4
+scipy==1.11.4
+tensorboardX==2.6.2.2
+torch==2.2.2+cu121
